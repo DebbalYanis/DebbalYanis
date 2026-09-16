@@ -1,12 +1,14 @@
 # Hi, I'm Yanis DEBBAL
 
-**System Administration, Cloud & DevOps Apprentice @ FieldCloud**
+**Cybersecurity, Cloud & DevOps Apprentice @ FieldCloud**
 
-I am a BUT Informatique student at IUT Grenoble Alpes, specializing in the deployment of secure and communicative applications. I am passionate about modern infrastructure, security, and automation.
+I am a third-year BUT Informatique student at IUT2 Grenoble Alpes, specializing in **Cybersecurity**. I'm currently on a work-study program (alternance) at FieldCloud, where I'm learning extensively about cloud infrastructure, cybersecurity, networking, and DevSecOps. I'm passionate about modern infrastructure, security, and automation.
 
 *   **Cloud & Distributed Storage:** Deploying S3 object storage solutions (Garage, OpenCloud) and managing hybrid infrastructures (Scaleway Sovereign Cloud).
-*   **Security & Networking (Modern Ops):** Implementing Zero Trust Network Access (Zrok) architectures, complex network segmentation (VLANs), WAF configuration, and securing traffic via mTLS and Let's Encrypt automation.
-*   **Virtualization & Containerization:** Advanced management of XCP-ng / Xen Orchestra hypervisors and heavy use of Podman for container lifecycle management.
+*   **Security & Networking (Modern Ops):** Implementing Zero Trust Network Access (Zrok) architectures, complex network segmentation (VLANs), WAF configuration, reverse/forward proxying, encrypted logging, and securing traffic via mTLS and Let's Encrypt automation.
+*   **Offensive Security & CTF:** Practicing on TryHackMe, Root-Me and HackTheBox — network scanning, packet analysis, intrusion testing, and vulnerability research.
+*   **Virtualization & Containerization:** Advanced management of XCP-ng / Xen Orchestra and Proxmox hypervisors, plus heavy use of Podman for container lifecycle management.
+*   **Infrastructure as Code & Orchestration:** Automating deployments with Ansible and Terraform, and orchestrating workloads with Kubernetes.
 *   **Observability & AI:** Setting up comprehensive monitoring stacks and integrating AI into the infrastructure (MCP Servers, Codex for automated remediation).
 *   **Development:** Creating internal tools, integrating APIs, and developing firmware. Currently learning Rust and Go.
 
@@ -31,15 +33,32 @@ Based in the Grenoble area, France.
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![XCP-ng](https://img.shields.io/badge/XCP--ng-212121?style=for-the-badge)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/S3_Object_Storage-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
+![OpenCloud](https://img.shields.io/badge/OpenCloud-0082C9?style=for-the-badge)
 ![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?style=for-the-badge&logo=scaleway&logoColor=white)
+
+**Infrastructure as Code & Orchestration**
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 **Networking & Security**
 ![OPNsense](https://img.shields.io/badge/OPNsense-FF7E00?style=for-the-badge&logo=opnsense&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy_mTLS-00ADD8?style=for-the-badge)
 ![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=lets-encrypt&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust_(Zrok)-D32F2F?style=for-the-badge)
+![nftables](https://img.shields.io/badge/nftables-CC0000?style=for-the-badge)
+![UFW](https://img.shields.io/badge/UFW-D3712E?style=for-the-badge)
+![Technitium DNS](https://img.shields.io/badge/Technitium_DNS-0F9D58?style=for-the-badge)
+![Reverse/Forward Proxy](https://img.shields.io/badge/Reverse%2FForward_Proxy-2B2D42?style=for-the-badge)
+
+**Offensive Security & CTF**
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Root-Me](https://img.shields.io/badge/Root--Me-000000?style=for-the-badge)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4E7A8C?style=for-the-badge)
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -58,7 +77,7 @@ Based in the Grenoble area, France.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -73,6 +92,7 @@ Based in the Grenoble area, France.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Forgejo](https://img.shields.io/badge/Forgejo-FF7D3B?style=for-the-badge&logo=forgejo&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed_IDE-02A882?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
