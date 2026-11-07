@@ -4,11 +4,11 @@
 
 I am a third-year BUT Informatique student at IUT2 Grenoble Alpes, specializing in **Cybersecurity**. I'm currently on a work-study program (alternance) at FieldCloud, where I'm learning extensively about cloud infrastructure, cybersecurity, networking, and DevSecOps. I'm passionate about modern infrastructure, security, and automation.
 
-*   **Cloud & Distributed Storage:** Deploying S3 object storage solutions (Garage, OpenCloud) and managing hybrid infrastructures (Scaleway Sovereign Cloud).
+*   **Cloud & Distributed Storage:** Deploying S3 object storage solutions (Garage, RustFS, OpenCloud) and managing hybrid infrastructures (Scaleway Sovereign Cloud).
 *   **Security & Networking (Modern Ops):** Implementing Zero Trust Network Access (Zrok) architectures, complex network segmentation (VLANs), WAF configuration, reverse/forward proxying, encrypted logging, and securing traffic via mTLS and Let's Encrypt automation.
-*   **Offensive Security & CTF:** Practicing on TryHackMe, Root-Me and HackTheBox — network scanning, packet analysis, intrusion testing, and vulnerability research.
+*   **Offensive Security & CTF:** Practicing on TryHackMe, Root-Me and HackTheBox — network scanning,domain scanning, packet analysis, intrusion testing, and vulnerability research.
 *   **Virtualization & Containerization:** Advanced management of XCP-ng / Xen Orchestra and Proxmox hypervisors, plus heavy use of Podman for container lifecycle management.
-*   **Infrastructure as Code & Orchestration:** Automating deployments with Ansible and Terraform, and orchestrating workloads with Kubernetes.
+*   **Infrastructure as Code & Orchestration:** Automating deployments with Ansible and OpenTofu, and orchestrating workloads with Kubernetes.
 *   **Observability & AI:** Setting up comprehensive monitoring stacks and integrating AI into the infrastructure (MCP Servers, Codex for automated remediation).
 *   **Development:** Creating internal tools, integrating APIs, and developing firmware. Currently learning Rust and Go.
 
